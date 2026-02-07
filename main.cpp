@@ -1,3 +1,15 @@
+// Alexis Lopez Echevarria, 6 February 2026,  Program is a updated bank model, allowing multi bank accounts with adding and removing money
+// AI ASSISTANCE DISCLOSURE
+//
+// Tool(s) Used: [ChatGPT, DeepSeek]
+// Date(s) of Use: [2/6/26]
+//
+// Description of Use:
+// [Briefly (1-3 sentences) describe how you used the tool(s). Be specific.]
+// AI was used to help me solve some errors in my code, mostly syntax or a variety of misspelled words that wasnt showing up as an erorr,
+// along with some : that were supposed to be ;, and to debloat some parts of the code
+// While DeepSeek was used more so on explaining parts i forgot about or how to do.
+
 #include "BankAccount.h"
 #include <iostream>
 #include <vector>
