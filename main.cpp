@@ -8,7 +8,7 @@
 // [Briefly (1-3 sentences) describe how you used the tool(s). Be specific.]
 // AI was used to help me solve some errors in my code, mostly syntax or a variety of misspelled words that wasnt showing up as an erorr,
 // along with some : that were supposed to be ;, and to debloat some parts of the code
-// While DeepSeek was used more so on explaining parts i forgot about or how to do.
+// While DeepSeek was used more so on explaining parts i forgot about or how to do, explaining it in a way i can try and remember.
 
 #include "BankAccount.h"
 #include <iostream>
